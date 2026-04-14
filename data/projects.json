@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Project One",
+        "description": "This is a brief description of Project One. It showcases the use of HTML, CSS, and JavaScript to create a responsive web application.",
+        "image": "assets/images/project-one.png",
+        "link": "https://example.com/project-one"
+    },
+    {
+        "title": "Project Two",
+        "description": "Project Two is an innovative solution that utilizes modern web technologies to deliver a seamless user experience.",
+        "image": "assets/images/project-two.png",
+        "link": "https://example.com/project-two"
+    },
+    {
+        "title": "Project Three",
+        "description": "This project demonstrates the integration of APIs and dynamic content rendering using JavaScript.",
+        "image": "assets/images/project-three.png",
+        "link": "https://example.com/project-three"
+    },
+    {
+        "title": "Project Four",
+        "description": "An interactive web application built with a focus on user engagement and accessibility.",
+        "image": "assets/images/project-four.png",
+        "link": "https://example.com/project-four"
+    },
+    {
+        "title": "Project Five",
+        "description": "A portfolio website that highlights various projects and skills, designed with a clean and modern aesthetic.",
+        "image": "assets/images/project-five.png",
+        "link": "https://example.com/project-five"
+    }
+]
